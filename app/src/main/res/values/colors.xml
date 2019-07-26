@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Appname">#393939</color>
+    <color name="Blue">#734467ff</color>
+    <color name="DBlue">#656bff</color>
+    <color name="Gray">#f6f6f7</color>
+    <color name="White">#ffffff</color>
+    <color name="Red">#ff4848</color>
+
+
+
+</resources>
